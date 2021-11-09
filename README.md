@@ -1,0 +1,1 @@
+A simple project demonstrating skills I have learned with methods, loops, and conditionals in Ruby.  This will create a "Caesar cipher", which shifts each character in a string a certain amount of positions to create an encrypted message.
